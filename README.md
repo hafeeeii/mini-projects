@@ -4,5 +4,5 @@
 # 2)landing page design(HTML&CSS)
 <a href=https://hafis1017.github.io/mini-projects/landing-page-design/>LIVE DEMO</a>
 # 3)Responsive-l-p(HTML&CSS)
-<a href=https://hafis1017.github.io/mini-projects/Responsive-l-p/>LIVE DEMO</a>
+<a href=https://hafis1017.github.io/mini-projects/responsive-l-p/>LIVE DEMO</a>
 
