@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy-Bold', sans-serif;
+}
+html,body {
+    width: 100%;
+    height: 100%;
+}
+.main {
+
+    width: 100%;
+    height: 100%;
+    display: flex;
+   
+}
+.left-col {
+   position: relative;
+    width: 40%;
+    height: 100%;
+}
+.lnav {
+    width: 100%;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.lnavr a {
+   margin-right: 30px;
+   text-decoration: none;
+   color: black;
+   font-weight: 600;
+   font-size: 14px;
+   
+}
+.lnavr i {
+    color: royalblue;
+    font-weight: 600;
+}
+.right-col {
+   
+    width: 60%;
+    height: 100%;
+}
+.rtop {
+    width: 100%;
+    height: 50%;
+    background-color: red;
+    display: flex;
+}
+.rtopleft {
+    width: 55%;
+    height: 100%;
+    background-image: url(https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80);
+    background-size: cover;
+    background-position: bottom;
+
+}
+.rtopright {
+    width: 45%;
+    height: 100%;
+    background-image: url(https://images.unsplash.com/photo-1557800636-894a64c1696f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80);
+    background-size: cover;
+    background-position: center;
+}
+.rbottom {
+    width: 100%;
+    height: 50%;
+    background-image: url(https://images.unsplash.com/photo-1554795808-3231c32711cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1936&q=80);
+    background-position: center;
+    background-size: cover;
+}
+.left-col .text-center {
+   
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    
+}
+.text-center h1 {
+    font-size: 80px;
+    font-weight: 800;
+    letter-spacing: 1px;
+   
+}
+.text-center p {
+    letter-spacing: 2px;
+    font-size: 10px;
+    opacity: .6;
+    line-height: 17px;
+    margin-top: 13px;
+    margin-bottom: 20px;
+     font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+
+}
+.text-center a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px black solid;
+    padding-bottom: 5px;
+    font-size: 13px;
+    font-weight: 800;
+    opacity: .6;
+}
+@media(max-width:500px){
+    .main {
+        flex-direction: column;
+    }
+    .left-col {
+        width: 100%;
+    }
+    .right-col {
+        width: 100%;
+    }
+}
