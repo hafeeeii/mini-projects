@@ -6,5 +6,5 @@
 # 3)Responsive-l-p(HTML&CSS)
 <a href=https://hafis1017.github.io/mini-projects/responsive-l-p/>LIVE DEMO</a>
 # 4)Noise design(HTML&CSS)
-<a href=https://hafis1017.github.io/mini-projects/Noise-design/>LIVE DEMO</a>
+<a href=https://hafis1017.github.io/mini-projects/noise design/>LIVE DEMO</a>
 
