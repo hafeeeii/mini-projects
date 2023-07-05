@@ -7,4 +7,6 @@
 <a href=https://hafis1017.github.io/mini-projects/responsive-l-p/>LIVE DEMO</a>
 # 4)Noise design(HTML&CSS)
 <a href=https://hafis1017.github.io/mini-projects/noise-design/>LIVE DEMO</a>
+# 5)Digital-clock(HTML,CSS&JS)
+<a href=https://hafis1017.github.io/mini-projects/Digital-clock/>LIVE DEMO</a>
 
