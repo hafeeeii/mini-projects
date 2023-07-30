@@ -11,4 +11,7 @@
 <a href=https://hafis1017.github.io/mini-projects/Digital-clock/>LIVE DEMO</a>
 # 6)landingPage(HTML&CSS,Responsive)
 <a href=https://hafis1017.github.io/mini-projects/landingPage/>LIVE DEMO</a>
+# 7)multiplicationApp(HTML,CSS&JS)
+<a href=https://hafis1017.github.io/mini-projects/multiplicationApp/>LIVE DEMO</a>
+
 
