@@ -13,5 +13,7 @@
 <a href=https://hafeeeii.github.io/mini-projects/landingPage/>LIVE DEMO</a>
 # 7)multiplicationApp(HTML,CSS&JS)
 <a href=https://hafeeeii.github.io/mini-projects/multiplicationApp/>LIVE DEMO</a>
+# 8)characterCounter(HTML,CSS&JS)
+<a href=https://hafeeeii.github.io/mini-projects/characterCounter/>LIVE DEMO</a>
 
 
