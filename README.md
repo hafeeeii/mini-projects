@@ -15,5 +15,7 @@
 <a href=https://hafeeeii.github.io/mini-projects/multiplicationApp/>LIVE DEMO</a>
 # 8)characterCounter(HTML,CSS&JS)
 <a href=https://hafeeeii.github.io/mini-projects/characterCounter/>LIVE DEMO</a>
+# 9)loadingAnimation(HTML&CSS)
+<a href=https://hafeeeii.github.io/mini-projects/loadingAnimation/>LIVE DEMO</a>
 
 
