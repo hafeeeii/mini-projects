@@ -19,6 +19,8 @@
 <a href=https://hafeeeii.github.io/mini-projects/loadingAnimation/>LIVE DEMO</a>
 # 10)button(HTML&CSS)
 <a href=https://hafeeeii.github.io/mini-projects/button/>LIVE DEMO</a>
+# 11)img-hover-effect(HTML&CSS)
+<a href=https://hafeeeii.github.io/mini-projects/img-hover-effect/>LIVE DEMO</a>
 
 
 
