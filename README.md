@@ -21,6 +21,8 @@
 <a href=https://hafeeeii.github.io/mini-projects/button/>LIVE DEMO</a>
 # 11)card-hover-effect(HTML&CSS)
 <a href=https://hafeeeii.github.io/mini-projects/card-hover-effect/>LIVE DEMO</a>
+# 12)accordion(HTML&CSS)
+<a href=https://hafeeeii.github.io/mini-projects/accordion/>LIVE DEMO</a>
 
 
 
