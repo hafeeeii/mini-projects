@@ -27,6 +27,7 @@
 <a href=https://hafeeeii.github.io/mini-projects/hearth-button/>LIVE DEMO</a>
 # 14)background-color-changer(HTML,CSS&JS)
 <a href=https://hafeeeii.github.io/mini-projects/background-color-changer/>LIVE DEMO</a>
-
+# 15)custom-cursor(HTML,CSS&JS)
+<a href=https://hafeeeii.github.io/mini-projects/custom-cursor/>LIVE DEMO</a>
 
 
